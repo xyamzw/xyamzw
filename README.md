@@ -1,8 +1,6 @@
-### Hi, I am [DY_XiaoDong](https://xiaodong.moe/)
+### Hi, I am xyamzw
 
-Have a little bit of knowledge of web development, a full-time student in Hong Kong, S.4.
-
-If your company is hiring, you may consider me, my online resume is [ready to go](https://resume.xyamzw.moe/).
+Have a little bit of knowledge of web development, a vocational high school student,Senior Three
 
 If my work helps you, you can sponsor me via [GitHub Sponsors](https://github.com/sponsors/xyamzw) or [AfDian](https://afdian.com/a/xyamzw), this will help me to continue my work.
 
