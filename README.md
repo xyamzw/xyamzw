@@ -2,8 +2,6 @@
 
 Have a little bit of knowledge of web development, a vocational high school student,Senior Three
 
-If my work helps you, you can sponsor me via [GitHub Sponsors](https://github.com/sponsors/xyamzw) or [AfDian](https://afdian.com/a/xyamzw), this will help me to continue my work.
-
 ### Quick OverView
 
 ![Role](https://img.shields.io/badge/Role-Front--End%20Developer-green?style=flat-square&cacheSeconds=60)
@@ -16,8 +14,3 @@ If my work helps you, you can sponsor me via [GitHub Sponsors](https://github.co
 
 ![GitHub Stat](https://stats.xiaodong.moe/api?username=xyamzw&show=prs_merged_percentage&show_icons=true&theme=transparent&hide=contribs,stars&hide_border=true&include_all_commits=true&custom_title=GitHub%20Stats&cache_seconds=43200)
 
-### Sponsors
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/xyamzw/sponsors/main/sponsors.wide.svg" />
-</p>
