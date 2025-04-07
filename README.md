@@ -19,6 +19,6 @@ Have a little bit of knowledge of Front-end Development, a vocational high schoo
 ![GitHub User's stars](https://img.shields.io/github/stars/xyamzw?affiliations=OWNER%2CORGANIZATION_MEMBER&style=flat-square&logo=github&label=Stars&color=yellow&cacheSeconds=60)
 ![Rating](https://img.shields.io/badge/GitRoll%20Rating-S-yellow?style=flat-square&logo=githubcopilot)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=xyamzw&show_icons=true&theme=blueberry">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=xyamzw&show_icons=true&count_private=true&theme=blueberry">
    
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyamzw&theme=blueberry">
