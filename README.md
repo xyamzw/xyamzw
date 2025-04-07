@@ -1,5 +1,6 @@
+<div id="title" align=center>
+   
 # Hi, I am xyamzw
-
 Have a little bit of knowledge of Front-end Development, a vocational high school student,Senior Three
 
 ## About me
@@ -27,7 +28,7 @@ Have a little bit of knowledge of Front-end Development, a vocational high schoo
    
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyamzw&theme=blueberry">
 
-<div align="center">
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xyamzw/xyamzw/blob/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/xyamzw/xyamzw/blob/output/github-snake.svg" />
