@@ -14,7 +14,7 @@ Have a little bit of knowledge of Front-end Development, a vocational high schoo
 
 ### Quick OverView
 
-![爱好](https://img.shields.io/badge/爱好-二次元-red)
+![爱好](https://img.shields.io/badge/爱好-二次元-yellow)
 ![GitHub User's stars](https://img.shields.io/github/stars/xyamzw?affiliations=OWNER%2CORGANIZATION_MEMBER&style=flat-square&logo=github&label=Stars&color=yellow&cacheSeconds=60)
 ![Rating](https://img.shields.io/badge/GitRoll%20Rating-S-yellow?style=flat-square&logo=githubcopilot)
 
