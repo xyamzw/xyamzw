@@ -18,4 +18,4 @@ Have a little bit of knowledge of Front-end Development, a vocational high schoo
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=xyamzw&show_icons=true&theme=blueberry">
    
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyamzw">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyamzw&theme=blueberry">
