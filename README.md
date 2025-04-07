@@ -26,3 +26,11 @@ Have a little bit of knowledge of Front-end Development, a vocational high schoo
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xyamzw&show_icons=true&count_private=true&theme=blueberry">
    
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyamzw&theme=blueberry&card_width=470">
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xyamzw/xyamzw/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xyamzw/xyamzw/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" width="95%" />
+  </picture>
+</div>
