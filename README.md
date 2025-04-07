@@ -1,6 +1,6 @@
 ### Hi, I am xyamzw
 
-Have a little bit of knowledge of web development, a vocational high school student,Senior Three
+Have a little bit of knowledge of Front-end Development, a vocational high school student,Senior Three
 
 ### Quick OverView
 
