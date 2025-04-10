@@ -11,7 +11,7 @@ Have a little bit of knowledge of Front-end Development, a vocational high schoo
 <code><img height="30" alt="express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="30" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<img align="right" src="https://count.getloli.com/get/@:xyamzw?theme=miku" width="500">
+<img align="right" src="https://count.getloli.com/get/@:xyamzw?theme=miku" width="480">
 
 ![爱好](https://img.shields.io/badge/爱好-二次元-yellow)
 ![GitHub User's stars](https://img.shields.io/github/stars/xyamzw?affiliations=OWNER%2CORGANIZATION_MEMBER&style=flat-square&logo=github&label=Stars&color=yellow&cacheSeconds=60)
