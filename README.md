@@ -14,11 +14,11 @@
 <code><img height="30" alt="linux" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <img align="right" src="https://count.getloli.com/get/@:xyamzw?theme=miku" width="480">
 
-![访问数量](https://komarev.com/ghpvc/?username=xyamzw&label=Profile%20views&color=0e75b6&style=flat)
-<a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>
-![爱好](https://img.shields.io/badge/爱好-二次元-yellow)
-![GitHub User's stars](https://img.shields.io/github/stars/xyamzw?affiliations=OWNER%2CORGANIZATION_MEMBER&style=flat-square&logo=github&label=Stars&color=yellow&cacheSeconds=60)
-![Rating](https://img.shields.io/badge/GitRoll%20Rating-S-yellow?style=flat-square&logo=githubcopilot)
+![访问数量](https://komarev.com/ghpvc/?username=xyamzw&label=Profile%20views&color=0e75b6&style=flat)&emsp;
+<a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+![爱好](https://img.shields.io/badge/爱好-二次元-yellow)&emsp;
+![GitHub User's stars](https://img.shields.io/github/stars/xyamzw?affiliations=OWNER%2CORGANIZATION_MEMBER&style=flat-square&logo=github&label=Stars&color=yellow&cacheSeconds=60)&emsp;
+![Rating](https://img.shields.io/badge/GitRoll%20Rating-S-yellow?style=flat-square&logo=githubcopilot)&emsp;
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=xyamzw&show_icons=true&count_private=true&theme=blueberry">
    
