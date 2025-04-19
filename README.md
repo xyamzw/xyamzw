@@ -16,7 +16,7 @@
 
 ![访问数量](https://komarev.com/ghpvc/?username=xyamzw&label=Profile%20views&color=0e75b6&style=flat)&emsp;
 <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
-![爱好](https://img.shields.io/badge/hobby-二次元-yellow)&emsp;
+![爱好](https://img.shields.io/badge/Hobby-二次元-yellow)&emsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/xyamzw?affiliations=OWNER%2CORGANIZATION_MEMBER&style=flat-square&logo=github&label=Stars&color=yellow&cacheSeconds=60)&emsp;
 ![Rating](https://img.shields.io/badge/GitRoll%20Rating-S-yellow?style=flat-square&logo=githubcopilot)&emsp;
 
