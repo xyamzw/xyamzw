@@ -5,6 +5,8 @@ theme_version_check: true
 theme_config_check: true
 # 主菜单导航
 # 有关更多图标信息，请访问 https://github.com/D-Sketon/hexo-theme-reimu/issues/30。
+url: https://xyamzw.2937150394.workers.dev
+root:  /blog/
 menu:
   - name: home
     url: /
