@@ -15,7 +15,7 @@
 <img align="right" src="https://count.getloli.com/get/@:xyamzw?theme=miku" width="480">
 
 ![访问数量](https://komarev.com/ghpvc/?username=xyamzw&label=Profile%20views&color=0e75b6&style=flat)&emsp;
-<a href="https://xyamzw.top/"><img src="https://img.shields.io/badge/Website-Blog-8c36db" /></a>&emsp;
+<a href="https://xyamzw.github.io/"><img src="https://img.shields.io/badge/Website-Blog-8c36db" /></a>&emsp;
 ![爱好](https://img.shields.io/badge/Hobby-ACGN-daaa3f)&emsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/xyamzw?affiliations=OWNER%2CORGANIZATION_MEMBER&style=flat-square&logo=github&label=Stars&color=yellow&cacheSeconds=60)&emsp;
 ![Rating](https://img.shields.io/badge/GitRoll%20Rating-S-yellow?style=flat-square&logo=githubcopilot)&emsp;
