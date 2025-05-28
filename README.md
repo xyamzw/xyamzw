@@ -3,6 +3,8 @@
 
 ## About me
 
+<img align="center" src="https://raw.githubusercontent.com/xyamzw/xyamzw/refs/heads/main/images/blog/bg.webp">
+
 ### Technology Stack
 
 <code><img height="30" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -31,5 +33,3 @@
     <img alt="github-snake" src="github-snake.svg" width="95%" />
   </picture>
 </div>
-
-<img align="center" src="https://raw.githubusercontent.com/xyamzw/xyamzw/refs/heads/main/images/blog/bg.webp">
