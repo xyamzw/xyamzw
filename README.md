@@ -3,7 +3,7 @@
 
 ## About me
 
-<img align="center" src="https://raw.githubusercontent.com/xyamzw/xyamzw/refs/heads/main/images/blog/bg.webp">
+<img align="center" src="https://raw.githubusercontent.com/xyamzw/xyamzw/refs/heads/main/images/blog/bg.webp" height="330">
 
 ### Technology Stack
 
