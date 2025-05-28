@@ -31,3 +31,5 @@
     <img alt="github-snake" src="github-snake.svg" width="95%" />
   </picture>
 </div>
+
+<img align="center" src="https://raw.githubusercontent.com/xyamzw/xyamzw/refs/heads/main/images/blog/bg.webp">
