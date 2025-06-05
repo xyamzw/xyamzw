@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm xyamzw</h1>
-<h3 align="center">Have a little bit of knowledge of Front-end Development, a vocational high school student,Senior Three</h3>
+## Hi 👋, I'm xyamzw
+<p align='left'>Have a little bit of knowledge of Front-end Development, a vocational high school student,Senior Three</p>
 
 ## About me
 
