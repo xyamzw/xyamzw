@@ -13,7 +13,6 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,vue,tailwind,nodejs,express,mysql,git,linux,debian,ubuntu,npm,yarn,pnpm,pinia,vite,vitest,md,postman,vscode,webstorm,ps,cloudflare,vercel,netlify&perline=12">
 </p>
-<img src="https://count.getloli.com/get/@:xyamzw?theme=miku">
 
 ![访问数量](https://komarev.com/ghpvc/?username=xyamzw&label=Profile%20views&color=0e75b6&style=flat)&emsp;
 <a href="https://xyamzw.github.io/"><img src="https://img.shields.io/badge/Website-Blog-8c36db" /></a>&emsp;
