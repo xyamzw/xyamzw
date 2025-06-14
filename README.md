@@ -21,7 +21,7 @@
 ![Rating](https://img.shields.io/badge/GitRoll%20Rating-S-yellow?style=flat-square&logo=githubcopilot)&emsp;
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyamzw&show_icons=true&theme=blueberry)
+![xyamzw's GitHub stats](https://github-readme-stats.vercel.app/api?username=xyamzw&show_icons=true&theme=blueberry)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xyamzw&theme=blueberry)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xyamzw&theme=blueberry) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xyamzw&theme=blueberry)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xyamzw&theme=blueberry) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xyamzw&theme=blueberry)
