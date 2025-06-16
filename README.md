@@ -1,5 +1,5 @@
 ## Hi 👋, I'm xyamzw
-<p align='left'>Have a little bit of knowledge of Front-end Development, a vocational high school student,Senior Three</p>
+<p align='left'>Have a little bit of knowledge of Front-end Development, Love ACGN</p>
 
 ## About me
 
