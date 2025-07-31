@@ -1,8 +1,22 @@
 ## Hi 👋, I'm xyamzw
-<p align='left'>Have a little bit of knowledge of Front-end Development, Love ACGN</p>
+<div align="center">
+  <samp>
+    <a href="https://xyamzw.top">blog</a>
+    •
+    <a href="https://x.com/xyamzw">twitter</a>
+    •
+    <a href="mailto:xyamzw2356@gmail.com">email</a>
+  </samp>
+</div>
 
 ## About me
-
+- 🌱 I’m currently learning: **TypeScript**, **React**, and some **frontend architecture** like Monorepo 🎯
+- 👯 I’m looking to collaborate on: Open-source UI libraries or anime-themed apps~ 💻💖
+- 🤔 I’m looking for help with: Optimizing performance in frontend-heavy apps, and writing clean component code
+- 💬 Ask me about: JavaScript, frontend frameworks (Vue, React), Linux setups, and 二次元趣事 ✨
+- 📫 How to reach me: [xyamzw2356@gmail.com] or DM on GitHub / Twitter~ 📬
+- 😄 Pronouns: He/him 他 / They/them 他们 (随意就好啦~)
+- ⚡ Fun fact: I believe every project deserves at least one cute UI element 🌟🐾
 <p align="center">
 <img src="https://raw.githubusercontent.com/xyamzw/xyamzw/refs/heads/main/images/bg.webp" width="330">
 <img src="https://raw.githubusercontent.com/xyamzw/xyamzw/refs/heads/main/images/bg2.webp" width="330">
