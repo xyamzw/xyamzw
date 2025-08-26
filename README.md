@@ -15,7 +15,6 @@
 - 🤔 I’m looking for help with: Optimizing performance in frontend-heavy apps, and writing clean component code
 - 💬 Ask me about: JavaScript, frontend frameworks (Vue, React), Linux setups, and 二次元趣事 ✨
 - 📫 How to reach me: [xyamzw2356@gmail.com] or DM on GitHub / Twitter~ 📬
-- 😄 Pronouns: He/him 他 / They/them 他们 (随意就好啦~)
 - ⚡ Fun fact: I believe every project deserves at least one cute UI element 🌟🐾
 <p align="center">
 <img src="https://raw.githubusercontent.com/xyamzw/xyamzw/refs/heads/main/images/bg.webp" width="330">
