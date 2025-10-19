@@ -5,7 +5,7 @@
     •
     <a href="https://x.com/xyamzw">twitter</a>
     •
-    <a href="mailto:xyamzw2356@gmail.com">email</a>
+    <a href="mailto:hi@xyamzw.top">email</a>
   </samp>
 </div>
 
