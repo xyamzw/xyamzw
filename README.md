@@ -10,24 +10,21 @@
 </div>
 
 ## About me
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <!-- 左侧文字 -->
-  <div>
-
+<table>
+<tr>
+<td>
 - 🌱 I’m currently learning: **TypeScript**, **React**, and some **frontend architecture** like Monorepo 🎯  
 - 👯 I’m looking to collaborate on: Open-source UI libraries or anime-themed apps~ 💻💖  
 - 🤔 I’m looking for help with: Optimizing performance in frontend-heavy apps, and writing clean component code  
 - 💬 Ask me about: JavaScript, frontend frameworks (Vue, React), Linux setups, and 二次元趣事 ✨  
 - 📫 How to reach me: My contact information is on your sidebar 📬  
 - ⚡ Fun fact: I believe every project deserves at least one cute UI element 🌟🐾  
-
-  </div>
-
-  <!-- 右侧图片 -->
-  <img src="https://raw.githubusercontent.com/xyamzw/xyamzw/refs/heads/main/images/xe.webp" width="200" />
-
-</div>
+</td>
+<td width="220" align="right">
+<img src="https://raw.githubusercontent.com/xyamzw/xyamzw/refs/heads/main/images/xe.webp" width="200">
+</td>
+</tr>
+</table>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/xyamzw/xyamzw/refs/heads/main/images/bg.webp" width="330">
