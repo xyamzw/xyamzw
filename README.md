@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning: **TypeScript**, **React**, and some **frontend architecture** like Monorepo 🎯  
 - 👯 I’m looking to collaborate on: Open-source UI libraries or anime-themed apps~ 💻💖  
 - 🤔 I’m looking for help with: Optimizing performance in frontend-heavy apps, and writing clean component code  
-- 💬 Ask me about: JavaScript, frontend frameworks (Vue, React), Linux setups, and 二次元趣事 ✨  
+- 💬 Ask me about: JavaScript, frontend frameworks (Vue, React), Linux setups ✨  
 - 📫 How to reach me: My contact information is on your sidebar 📬  
 - ⚡ Fun fact: I believe every project deserves at least one cute UI element 🌟🐾
 
