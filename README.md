@@ -55,8 +55,8 @@
 
 <div align=center>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xyamzw/xyamzwqwq/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xyamzw/xyamzwqwq/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/xyamzwqwq/xyamzwqwq/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/xyamzwqwq/xyamzwqwq/blob/output/github-snake-dark.svg" />
     <img alt="github-snake" src="github-snake.svg" width="95%" />
   </picture>
 </div>
