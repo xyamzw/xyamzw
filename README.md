@@ -46,11 +46,9 @@
 ![Rating](https://img.shields.io/badge/GitRoll%20Rating-S-yellow?style=flat-square&logo=githubcopilot)&emsp;
 
 
-![xyamzw's GitHub stats](https://stars-xyamzw.vercel.app/api?username=xyamzwqwq&show_icons=true&theme=blueberry)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xyamzwqwq&theme=blueberry)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xyamzwqwq&theme=blueberry) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xyamzwqwq&theme=blueberry)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xyamzwqwq&theme=blueberry) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xyamzwqwq&theme=blueberry)
-
+<p align="center">
+  <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=xyamzwqwq&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
 
 <div align=center>
