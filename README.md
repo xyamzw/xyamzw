@@ -47,7 +47,7 @@
 
 
 <p align="center">
-  <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=xyamzwqwq&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=xyamzwqwq&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
 
