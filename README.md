@@ -46,6 +46,8 @@
 ![Rating](https://img.shields.io/badge/GitRoll%20Rating-S-yellow?style=flat-square&logo=githubcopilot)&emsp;
 
 
+## GitHub Insights
+
 <p align="center">
   <img src="https://yourinsights.vercel.app/api/insight?username=xyamzwqwq&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
