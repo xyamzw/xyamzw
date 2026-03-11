@@ -28,10 +28,6 @@
 </tr>
 </table>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/xyamzwqwq/xyamzwqwq/refs/heads/main/images/bg.webp" width="330">
-<img src="https://raw.githubusercontent.com/xyamzwqwq/xyamzwqwq/refs/heads/main/images/bg2.webp" width="330">
-</p>
 
 ### Languages and Tools:
 
