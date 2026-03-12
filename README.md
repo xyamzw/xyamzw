@@ -19,10 +19,6 @@
 - 📫 How to reach me: My contact information is on your sidebar 📬  
 - ⚡ Fun fact: I believe every project deserves at least one cute UI element 🌟🐾
 
-## Github stars
-
-![xyamzw's GitHub stars](https://stars-xyamzw.vercel.app/api?username=xyamzwqwq&show_icons=true&theme=blueberry)
-
 
 ### Languages and Tools:
 
@@ -36,7 +32,9 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/xyamzwqwq?affiliations=OWNER%2CORGANIZATION_MEMBER&style=flat-square&logo=github&label=Stars&color=yellow&cacheSeconds=60)&emsp;
 ![Rating](https://img.shields.io/badge/GitRoll%20Rating-S-yellow?style=flat-square&logo=githubcopilot)&emsp;
 
+## Github stars
 
+![xyamzw's GitHub stars](https://stars-xyamzw.vercel.app/api?username=xyamzwqwq&show_icons=true&theme=blueberry)
 
 <div align=center>
   <picture>
