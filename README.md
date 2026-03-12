@@ -32,9 +32,9 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/xyamzwqwq?affiliations=OWNER%2CORGANIZATION_MEMBER&style=flat-square&logo=github&label=Stars&color=yellow&cacheSeconds=60)&emsp;
 ![Rating](https://img.shields.io/badge/GitRoll%20Rating-S-yellow?style=flat-square&logo=githubcopilot)&emsp;
 
-## Github stars
+## Github stats
 
-![xyamzw's GitHub stars](https://stars-xyamzw.vercel.app/api?username=xyamzwqwq&show_icons=true&theme=blueberry)
+![xyamzw's GitHub stats](https://stars-xyamzw.vercel.app/api?username=xyamzwqwq&show_icons=true&theme=blueberry)
 
 <div align=center>
   <picture>
