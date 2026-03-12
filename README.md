@@ -10,10 +10,8 @@
 </div>
 
 ## About me
-<table>
-<tr>
-<td>
-  
+<img src="https://raw.githubusercontent.com/xyamzwqwq/xyamzwqwq/refs/heads/main/images/xe.webp" width="200" align="right" style="margin-left: 15px;">
+
 - 🌱 I’m currently learning: **TypeScript**, **React**, and some **frontend architecture** like Monorepo 🎯  
 - 👯 I’m looking to collaborate on: Open-source UI libraries or anime-themed apps~ 💻💖  
 - 🤔 I’m looking for help with: Optimizing performance in frontend-heavy apps, and writing clean component code  
@@ -21,12 +19,9 @@
 - 📫 How to reach me: My contact information is on your sidebar 📬  
 - ⚡ Fun fact: I believe every project deserves at least one cute UI element 🌟🐾
 
-</td>
-<td width="220" align="right">
-<img src="https://raw.githubusercontent.com/xyamzwqwq/xyamzwqwq/refs/heads/main/images/xe.webp" width="200">
-</td>
-</tr>
-</table>
+## Github stars
+
+![xyamzw's GitHub stars](https://stars-xyamzw.vercel.app/api?username=xyamzwqwq&show_icons=true&theme=blueberry)
 
 
 ### Languages and Tools:
