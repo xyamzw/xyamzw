@@ -1,7 +1,7 @@
 ## Hi 👋, I'm xyamzw
 <div align="center">
   <samp>
-    <a href="https://xyamzw.top">blog</a>
+    <a href="https://blog.xyamzw.top">blog</a>
     •
     <a href="https://x.com/xyamzw">twitter</a>
     •
@@ -27,12 +27,12 @@
 </p>
 
 ![访问数量](https://komarev.com/ghpvc/?username=xyamzwqwq&label=Profile%20views&color=0e75b6&style=flat)&emsp;
-<a href="https://xyamzw.top/"><img src="https://img.shields.io/badge/Website-Blog-8c36db" /></a>&emsp;
+<a href="https://blog.xyamzw.top/"><img src="https://img.shields.io/badge/Website-Blog-8c36db" /></a>&emsp;
 ![爱好](https://img.shields.io/badge/Hobby-ACGN-daaa3f)&emsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/xyamzwqwq?affiliations=OWNER%2CORGANIZATION_MEMBER&style=flat-square&logo=github&label=Stars&color=yellow&cacheSeconds=60)&emsp;
 ![Rating](https://img.shields.io/badge/GitRoll%20Rating-S-yellow?style=flat-square&logo=githubcopilot)&emsp;
 
-## Github Stats
+## Stats
 
 ![xyamzw's GitHub stats](https://stars-xyamzw.vercel.app/api?username=xyamzwqwq&show_icons=true&theme=blueberry)
 
