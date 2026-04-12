@@ -20,11 +20,8 @@
 - ⚡ Fun fact: I believe every project deserves at least one cute UI element 🌟🐾
 
 
-### Languages and Tools:
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,vue,tailwind,nodejs,express,mysql,git,linux,debian,ubuntu,npm,yarn,pnpm,pinia,vite,vitest,md,postman,vscode,webstorm,ps,cloudflare,vercel,netlify&perline=12">
-</p>
+### Languages & frameworks
+[![Languages & frameworks](https://skillicons.dev/icons?i=js,vue,tailwind,nodejs,express,mysql,git,linux,debian,ubuntu,npm,yarn,pnpm,pinia,vite,vitest,md,postman,vscode,webstorm,ps,cloudflare,vercel,netlify&perline=15)](https://github.com/LelouchFR/skill-icons)
 
 ![访问数量](https://komarev.com/ghpvc/?username=xyamzwqwq&label=Profile%20views&color=0e75b6&style=flat)&emsp;
 <a href="https://blog.xyamzw.top/"><img src="https://img.shields.io/badge/Website-Blog-8c36db" /></a>&emsp;
